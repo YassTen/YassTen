@@ -35,4 +35,4 @@ A Python security-auditing script using standard socket and ssl libraries to sca
 ## Connect with me
 
 - **LinkedIn**: [linkedin.com/in/yassine-tenzekhti](https://www.linkedin.com/in/yassine-tenzekhti-893418294/)
-- **Portfolio**: [yasssten.github.io/Portefolio](https://portefolioy.netlify.app/)
+- **Portfolio**: [portefolioy.netlify.app](https://portefolioy.netlify.app/)
