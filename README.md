@@ -2,13 +2,13 @@
 
 I'm a **Cybersecurity & Software Engineering Student** passionate about defensive security (SOC, SIEM, Hardening) and secure application development. I like building labs, simulating attacks, and automating incident responses.
 
-- 🛡️ **Current Focus**: SIEM/XDR deployment (Wazuh), system hardening, and network security.
-- 🎓 **Education**: Cybersecurity Major at EFREI Paris.
-- 💼 **Looking for**: Cybersecurity Apprenticeship / Internship.
+- **Current Focus**: SIEM/XDR deployment (Wazuh), system hardening, and network security.
+- **Education**: Cybersecurity Major at EFREI Paris.
+- **Looking for**: Cybersecurity Apprenticeship / Internship.
 
 ---
 
-## 🛠️ Cybersecurity & Tech Stack
+## Cybersecurity & Tech Stack
 
 ### Security & Defense
 - **SIEM / XDR**: Wazuh, OpenSearch (ISM & Indexing)
@@ -22,17 +22,17 @@ I'm a **Cybersecurity & Software Engineering Student** passionate about defensiv
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### [🛡️ SIEM & XDR Platform - Wazuh](https://github.com/YassTen/siem-xdr-wazuh)
+### [SIEM & XDR Platform - Wazuh](https://github.com/YassTen/siem-xdr-wazuh)
 Deploying a multi-node containerized Wazuh SIEM/XDR platform. Configuration of custom rules (brute-force and successful compromises), automated host isolation (Active Response), and threat intelligence enrichment with the VirusTotal API.
 
-### [🔑 SSL/TLS Vulnerabilities Scanner](https://github.com/YassTen/Scanner_SSL_TLS)
+### [SSL/TLS Vulnerabilities Scanner](https://github.com/YassTen/Scanner_SSL_TLS)
 A Python security-auditing script using standard socket and ssl libraries to scan domains for weak ciphers, expired certificates, and obsolete protocols (TLS 1.0/1.1).
 
 ---
 
-## 📬 Connect with me
+## Connect with me
 
 - **LinkedIn**: [linkedin.com/in/yassine-tenzekhti](https://www.linkedin.com/in/yassine-tenzekhti-893418294/)
 - **Portfolio**: [yasssten.github.io/Portefolio](https://portefolioy.netlify.app/)
